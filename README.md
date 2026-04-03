@@ -1,7 +1,7 @@
 - Clone the repo
 
 ```jsx
-git clone https://github.com/GauravB2004/Paytm-nextjs.git
+git clone https://github.com/3shreya/Paytm-nextjs.git
 ```
 
 - npm install
